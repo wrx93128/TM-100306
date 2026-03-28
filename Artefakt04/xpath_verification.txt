@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: search_close_btn
+TAG: ImageView
+STATUS: ZALICZONE
